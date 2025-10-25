@@ -7,7 +7,7 @@
 - 🎓 Diploma in computer science and Technology
 - 🏫 Narsingdi Polytechnic Institute  
 - 🌱 Currently learning **Flutter & Firebase**  
-- 💡 Passionate about building creative and beautiful mobile apps  
+- 💡 Passionate about building creative and beautiful flutter apps  
 - 📱 Working on: delivery_apps project  
 - 💬 Ask me about: Flutter, Dart, App Design, Firebase  
 
