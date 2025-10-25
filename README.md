@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#42A5F5;">Huzaifa Sani</span></h1>
-
+<h1 align="center">Hi 👋, I'm <span style="color:#3981c6;">Huzaifa Sani</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=I am a Flutter+Developer;App+UI+Designer;Firebase+Learner;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=42A5F5,FF6B6B,FFD93D&center=true&vCenter=true&width=700&lines=Flutter+Developer;Flutter+App+UI+Designer;Firebase+%26+API+Integration;Tech+Enthusiast+%7C+Always+Learning" />
 </p>
-
----
 
 ### 💙 About Me
 - 🎓 Diploma in computer science and Technology
