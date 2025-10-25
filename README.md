@@ -7,11 +7,11 @@
 ---
 
 ### 💙 About Me
-- 🎓 Diploma in Computer Science & Engineering  
+- 🎓 Diploma in computer science and technology
 - 🏫 Narsingdi Polytechnic Institute  
 - 🌱 Currently learning **Flutter & Firebase**  
 - 💡 Passionate about building creative and beautiful mobile apps  
-- 📱 Working on: *NPI Easy Campus* project  
+- 📱 Working on: delivery_apps project  
 - 💬 Ask me about: Flutter, Dart, App Design, Firebase  
 
 ---
