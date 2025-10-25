@@ -61,7 +61,7 @@
 ---
 
 ### ✨ Motivation
-> “I’m not just learning Flutter — I’m shaping my dream one app at a time.” 💫  
+> I’m not just learning Flutter — I’m shaping my dream one app at a time.
 
 ---
 
