@@ -58,7 +58,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
----
 
 ### ✨ Motivation
 > I’m not just learning Flutter — I’m shaping my dream one app at a time.
