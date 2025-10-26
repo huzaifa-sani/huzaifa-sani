@@ -65,10 +65,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/huzaifa-sani/huzaifa-sani/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://assets9.lottiefiles.com/packages/lf20_coding.gif" alt="Coding Animation" width="300">
 </p>
-
----
 
 ⭐️ From [Huzayfa Sani](https://github.com/huzaifa-sani)
 
