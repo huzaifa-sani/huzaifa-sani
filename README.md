@@ -38,10 +38,9 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <!-- Gmail -->
-  <a href="mailto:huzaifasani44@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=huzaifasani44@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/8801963999044" target="_blank">
