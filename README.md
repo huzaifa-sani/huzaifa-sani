@@ -27,13 +27,11 @@
 
 ---
 
-### 🖼️ Animation Zone
+### 🖼️ MY Zone
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="coding animation">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-git-contrib/wave.gif" width="70px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cDN5Mjlsb2s5M21wNHM1OW05YWVpY213M2FjNGw4Z2F2YjlreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="200px" alt="coding animation">
 </p>
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
