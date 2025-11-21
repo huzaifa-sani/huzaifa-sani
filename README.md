@@ -9,9 +9,8 @@
 - 🌱 Currently learning **Flutter & Firebase**  
 - 💡 Passionate about building creative and beautiful flutter apps  
 - 📱 Working on: delivery_apps project  
-- 💬 Ask me about: Flutter, Dart, App Design, Firebase  
+- 💬 Ask me about: Flutter, Dart, App Design,Firebase  
 
----
 
 ### ⚙️ Tech Stack
 <p align="center">
