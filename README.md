@@ -20,10 +20,10 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
 
 ### 🧠 Current Focus & Learning:
 - 🚀 Mastering Advanced Flutter Concepts & Custom Painters
-- 🏗️ Clean Architecture & Bloc/GetX State Management
-- 🔐 Robust Firebase & Backend System Integration
+- 🏗️ Clean Architecture & Scalable Project Structures
+- 🔐 Backend System Integration
 
-💬 **Ask me about:** `Flutter`, `Dart`, `Firebase`, `REST API`, `UI/UX Implementation`
+💬 **Ask me about:** `Flutter • Dart • Firebase • REST API • GetX • UI/UX Implementation • Mobile App Architecture`
 
 ---
 
