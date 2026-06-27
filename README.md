@@ -4,9 +4,10 @@
 
 <h3 align="center">
 A Professional Flutter Developer, I am turning ideas into powerful mobile applications.
+  
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C7B7&center=true&vCenter=true&width=1000&lines=Professional+Flutter+Developer;Crafting+Beautiful+Flutter+User+Interfaces;Firebase+Authentication+%26+Backend+Integration;REST+API+Integration;GetX+State+Management;MVC+Architecture+Enthusiast;Building+Apps+That+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00C7B7&center=true&vCenter=true&width=1100&lines=Flutter+Developer;Crafting+Beautiful+Flutter+User+Interfaces;Firebase+Authentication+%26+Backend+Integration;REST+API+Integration;GetX+State+Management;MVC+Architecture+Enthusiast;Building+Apps+That+Solve+Real+Problems" />
 </p>
 
 ## 💫 About Me
