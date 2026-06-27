@@ -45,15 +45,6 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-sani&layout=compact&theme=tokyonight&hide_border=true" width="450"/>
 </p>
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-sani&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
