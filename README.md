@@ -42,7 +42,7 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+    <img src="https://img.shields.io/badge/BLoC-00A8E8?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
 </p>
 
 ### **Backend & Cloud Services**
@@ -53,8 +53,9 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
 
 ### **Tools & Workflow**
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,figma,firebase,git,github" alt="Tools" />
-</div>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,figma,firebase,git,github" alt="Tools" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
 
 ---
 
@@ -82,15 +83,57 @@ class HuzaifaSani {
     'Firebase',
     'REST API',
     'GetX',
+    'BLoC',
   ];
 
   final String architecture = 'Clean Architecture & MVC';
+
+  final List<String> developmentTools = [
+    'Android Studio',
+    'VS Code',
+    'Cursor',
+    'Google Antigravity',
+    'Postman',
+    'Figma',
+  ];
+
+  final List<String> expertise = [
+    'API Integration',
+    'Authentication',
+    'State Management',
+    'Local Storage',
+    'Push Notifications',
+    'Payment Integration',
+    'Real-time Data',
+    'Debugging',
+    'Testing',
+    'Git & GitHub',
+    'App Deployment',
+    'Responsive UI',
+  ];
+
+final String experience = '1+ Years of Professional Experience';
+
+final List<String> experienceAreas = [
+  'Production App Development',
+  'REST API Integration',
+  'Firebase Integration',
+  'State Management with GetX & BLoC',
+  'Clean Architecture & MVC',
+  'Payment Integration',
+  'Push Notifications',
+  'App Store & Google Play Deployment',
+  'Bug Fixing & Performance Optimization',
+];
+
+  final String platforms = 'Android, iOS, Web & Desktop';
+
   final String location = 'Bangladesh';
+
   final bool openToOpportunities = true;
 }
 ```
 
----
 
 ## ✨ Quote
 
