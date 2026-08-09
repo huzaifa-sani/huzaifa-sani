@@ -18,11 +18,14 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
   <tr>
     <td width="60%" valign="top">
       <p>Passionate <b>Mobile Application Developer</b> focused on crafting high-performance, responsive, and scalable cross-platform mobile apps using <b>Flutter</b> and <b>Dart</b>.</p>
-      <ul>
+<ul>
         <li>🎓 <b>Education:</b> Diploma in Computer Science & Technology</li>
-        <li>🏫 <b>Institute:</b> Narsingdi Polytechnic Institute, Bangladesh</li>
+        <li>🏫 <b>Institute:</b> Narsingdi Government Polytechnic Institute Bangladesh </li>
         <li>🎯 <b>Goal:</b> Building production-grade, scalable mobile solutions that solve real-world problems.</li>
-        <li>💡 <b>Interests:</b> Mobile App Architecture, Custom Painters, GetX/BLoC, & Backend API Integration</li>
+        <li>💡 <b>Interests:</b> Mobile App Architecture, Custom Painters & Backend API Integration</li>
+        <li>🚀 <b>Projects:</b> <span style="color:#00C7B7;"><b>8+ real-world projects, 4+ apps published on Google Play Store & Apple App Store</b></span></li>
+        <li>💼 <b>Availability:</b> Open for freelance & full-time opportunities</li>
+        <li>🏢 <b>Currently:</b> Actively seeking new opportunities as a Flutter Developer</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -75,6 +78,7 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
 
 ```dart
 class HuzaifaSani {
+
   final String role = 'Flutter & Mobile Application Developer';
 
   final List<String> coreStack = [
@@ -97,40 +101,40 @@ class HuzaifaSani {
     'Figma',
   ];
 
-  final List<String> expertise = [
-    'API Integration',
-    'Authentication',
-    'State Management',
-    'Local Storage',
-    'Push Notifications',
-    'Payment Integration',
-    'Real-time Data',
-    'Debugging',
-    'Testing',
-    'Git & GitHub',
-    'App Deployment',
-    'Responsive UI',
-  ];
-
-final String experience = '1+ Years of Professional Experience';
-
-final List<String> experienceAreas = [
-  'Production App Development',
-  'REST API Integration',
-  'Firebase Integration',
-  'State Management with GetX & BLoC',
-  'Clean Architecture & MVC',
-  'Payment Integration',
+final List<String> expertise = [
+  'API Integration',
+  'Authentication',
+  'State Management',
+  'Local Storage',
   'Push Notifications',
-  'App Store & Google Play Deployment',
-  'Bug Fixing & Performance Optimization',
+  'Real-time Data',
+  'Debugging',
+  'Testing',
+  'Git & GitHub',
+  'App Deployment',
+  'Google Play & Apple App Store Publishing',
+  'Responsive UI',
 ];
 
-  final String platforms = 'Android, iOS, Web & Desktop';
+  final String experience = '2+ Years of Professional Experience';
 
-  final String location = 'Bangladesh';
+  final List<String> projects = [
+    'BeautyRun — E-Commerce App | Published on Google Play & App Store',
+    'Sparky Toolbox — Electrical Calculator App | Published on Google Play & App Store',
+    'Preacy — Chef & Food Hiring App | Published on App Store',
+    'Jobsin — Job Search & Recruitment App',
+    'Macand — Bangladeshi E-Commerce App',
+    'OK! Day — Task & Productivity App',
+    'Douxii — E-Commerce App',
+    'Rukiya — School Management App',
+  ];
 
-  final bool openToOpportunities = true;
+final String platforms = 'Android, iOS ';
+
+final String location = 'Dhaka, Bangladesh';
+
+final bool openToOpportunities = true;
+
 }
 ```
 
