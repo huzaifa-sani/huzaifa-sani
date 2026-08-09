@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-A Professional Flutter Developer, I am turning ideas into powerful mobile applications.
+As a Professional Flutter Developer, I transform ideas into powerful, scalable mobile applications.
   
 </h3>
 <p align="center">
