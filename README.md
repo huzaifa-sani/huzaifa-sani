@@ -78,7 +78,7 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
 ```dart
 class HuzaifaSani {
 
-  final String role = 'Flutter & Mobile Application Developer';
+final String role = 'Flutter Mobile Application Developer (Android & iOS)';
 
   final List<String> coreStack = [
     'Flutter',
