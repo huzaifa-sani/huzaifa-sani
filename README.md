@@ -115,7 +115,7 @@ final List<String> expertise = [
   'Responsive UI',
 ];
 
-  final String experience = '2+ Years of Professional Experience';
+  final String experience = '1+ Years of Professional Experience';
 
   final List<String> projects = [
     'BeautyRun — E-Commerce App | Published on Google Play & App Store',
