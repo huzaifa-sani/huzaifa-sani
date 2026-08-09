@@ -61,7 +61,6 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
---
 ## 📊 Analytics & Performance
 
 <p align="center">
