@@ -12,7 +12,7 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
 
 ---
 
-## ⚡ About Me
+## About Me
 
 <table align="center" width="100%">
   <tr>
@@ -139,7 +139,7 @@ final bool openToOpportunities = true;
 ```
 
 
-## ✨ Quote
+## Quote
 
 > "I don't just write code. I build solutions, learn continuously, and turn ideas into impactful mobile applications."
 
