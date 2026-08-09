@@ -17,8 +17,10 @@ A Professional Flutter Developer, I am turning ideas into powerful mobile applic
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>Passionate <b>Mobile Application Developer</b> focused on crafting high-performance, responsive, and scalable cross-platform mobile apps using <b>Flutter</b> and <b>Dart</b>.</p>
-<ul>
+<p>
+  Passionate <b>Flutter Developer</b> specializing in building high-performance,
+  scalable, and production-ready mobile applications using <b>Flutter</b> and <b>Dart</b>.
+</p><ul>
         <li>🎓 <b>Education:</b> Diploma in Computer Science & Technology</li>
         <li>🏫 <b>Institute:</b> Narsingdi Government Polytechnic Institute Bangladesh </li>
         <li>🎯 <b>Goal:</b> Building production-grade, scalable mobile solutions that solve real-world problems.</li>
