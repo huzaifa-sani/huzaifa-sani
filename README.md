@@ -61,7 +61,7 @@ As a Professional Flutter Developer, I transform ideas into powerful, scalable m
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
-## 📊 Analytics & Performance
+## Analytics & Performance
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-sani&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" alt="Activity Graph" />
@@ -80,7 +80,7 @@ As a Professional Flutter Developer, I transform ideas into powerful, scalable m
   </tr>
 </table>
 
-## 💻 Developer Identity
+## Developer Identity
 
 ```dart
 class HuzaifaSani {
