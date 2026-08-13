@@ -37,7 +37,7 @@ As a Professional Flutter Developer, I transform ideas into powerful, scalable m
 
 ---
 
-## 🛠️ Flutter Ecosystem & Tech Stack
+## Flutter Ecosystem & Tech Stack
 
 <div align="center">
 
