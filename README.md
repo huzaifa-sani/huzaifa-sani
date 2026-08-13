@@ -64,15 +64,20 @@ As a Professional Flutter Developer, I transform ideas into powerful, scalable m
 ## 📊 Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huzaifa-sani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-sani&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-sani&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huzaifa-sani&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="380" alt="Top Languages" />
-</p>
+<table border="0" align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=huzaifa-sani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huzaifa-sani&theme=tokyonight&utcOffset=6" height="180" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
----
 ## 💻 Developer Identity
 
 ```dart
