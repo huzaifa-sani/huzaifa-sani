@@ -64,8 +64,10 @@ As a Professional Flutter Developer, I transform ideas into powerful, scalable m
 ## 📊 Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-sani&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-sani&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" alt="Activity Graph" />
 </p>
+<h3 align="center">GitHub Overview & Productive Hours</h3>
+<p align="center"><i>A quick summary of my coding activity and commit patterns</i></p>
 
 <table border="0" align="center">
   <tr>
