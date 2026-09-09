@@ -11,6 +11,26 @@ As a Professional Flutter Developer, I transform ideas into powerful, scalable m
 </p>
 
 ---
+<p align="center">
+  &nbsp;•&nbsp;
+  💻 &nbsp; <b>Flutter Developer</b>
+  &nbsp;•&nbsp;
+  📍 &nbsp; <b>Dhaka, Bangladesh 🇧🇩</b>
+</p>
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/✉%20Gmail-D32F2F?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## About Me
 
@@ -53,12 +73,23 @@ As a Professional Flutter Developer, I transform ideas into powerful, scalable m
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/REST%20API-0055E6?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Local%20Storage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Local Storage" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
 </p>
+
 
 ### **Tools & Workflow**
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,figma,firebase,git,github" alt="Tools" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity" />
+</p>
+
+### **Publishing**
+<p>
+  <img src="https://img.shields.io/badge/App%20Store%20Publishing-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store Publishing" />
+  <img src="https://img.shields.io/badge/Apple%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Apple App Store" />
 </p>
 
 ## Analytics & Performance
