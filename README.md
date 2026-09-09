@@ -13,13 +13,13 @@
         📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>Open to Work</b> 
       </p> 
       <p align="center" style="margin-bottom: 0;"> 
-        <a href="mailto:YOUR_EMAIL"> 
+        <a href="mailto:huzaifa0133@gmail.com"> 
           <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
         </a> 
-        <a href="https://wa.me/YOUR_WHATSAPP_NUMBER"> 
+        <a href="https://wa.me/8801963999044"> 
           <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> 
         </a> 
-        <a href="YOUR_LINKEDIN_URL"> 
+        <a href="https://www.linkedin.com/in/huzaifa-sani-525b36304/"> 
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
         </a> 
       </p>
