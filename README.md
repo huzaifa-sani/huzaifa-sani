@@ -10,7 +10,7 @@
   <tr>
     <td align="center" style="border: none; padding: 15px 25px;">
       <p align="center">  
-        📍 <b>Dhaka, Bangladesh 🇧🇩</b> &nbsp;&bull;&nbsp; 🎯 <b>Open to Work</b> 
+        📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>Open to Work</b> 
       </p> 
       <p align="center" style="margin-bottom: 0;"> 
         <a href="mailto:YOUR_EMAIL"> 
@@ -29,7 +29,7 @@
 
 <br>
 
-About Me
+About Me :
 
 <table align="center" width="100%">
   <tr>
@@ -92,11 +92,13 @@ About Me
   <img src="https://img.shields.io/badge/Apple%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Apple App Store" />
 </p>
 
-## Analytics & Performance
+<h2 align="center">Analytics & Performance</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-sani&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-sani&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
+
+
 <h3 align="center">GitHub Overview & Productive Hours</h3>
 <p align="center"><i>A quick summary of my coding activity and commit patterns</i></p>
 
