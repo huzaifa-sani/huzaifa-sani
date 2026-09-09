@@ -28,7 +28,6 @@
 </table>
 
 <br>
-
 About Me :
 
 <table align="center" width="100%">
