@@ -1,5 +1,6 @@
 <h1 align="center"> Hi 👋, I'm <span style="color:#00C7B7;">Huzaifa Sani</span> </h1> <h3 align="center"> A Professional Flutter Developer who transforms ideas into powerful, scalable mobile applications 🚀 </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&width=750&lines=Flutter+Developer;Beautiful+Mobile+Interfaces;Firebase+Backend+Integration;REST+API+Integration;GetX+State+Management" /> </p> <p align="center">  📍 <b>Dhaka, Bangladesh 🇧🇩</b> &nbsp;&bull;&nbsp; 🎯 <b>Open to Work</b> </p> <p align="center"> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://wa.me/YOUR_WHATSAPP_NUMBER"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>  </a> </p> <br>
-## About Me
+
+About Me
 
 <table align="center" width="100%">
   <tr>
@@ -7,14 +8,17 @@
 <p>
   Passionate <b>Flutter Developer</b> specializing in building high-performance,
   scalable, and production-ready mobile applications using <b>Flutter</b> and <b>Dart</b>.
-</p><ul>
-        <li>🎓 <b>Education:</b> Diploma in Computer Science & Technology</li>
-        <li>🏫 <b>Institute:</b> Narsingdi Government Polytechnic Institute Bangladesh </li>
-        <li>🎯 <b>Goal:</b> Building production-grade, scalable mobile solutions that solve real-world problems.</li>
-        <li>💡 <b>Interests:</b> Mobile App Architecture, Custom Painters & Backend API Integration</li>
-        <li>🚀 <b>Projects:</b> <span style="color:#00C7B7;"><b>8+ real-world projects, 4+ apps published on Google Play Store & Apple App Store</b></span></li>
-        <li>🏢 <b>Currently:</b> Actively seeking new opportunities as a Flutter Developer</li>
-      </ul>
+</p>
+      <ul>
+  <li>🎓 <b>Education:</b> BSc in Computer Science & Engineering</li>
+  <li>🏫 <b>University:</b> Canadian University of Bangladesh (CUB), Dhaka</li>
+  <li>📚 <b>Previous Education:</b> Diploma in Computer Science & Technology</li>
+  <li>🏫 <b>Institute:</b> Narsingdi Government Polytechnic Institute, Bangladesh</li>
+  <li>🎯 <b>Goal:</b> Building production-grade, scalable mobile solutions that solve real-world problems.</li>
+  <li>💡 <b>Interests:</b> Mobile App Architecture, Custom Painters & Backend API Integration</li>
+  <li>🚀 <b>Projects:</b> <span style="color:#00C7B7;"><b>8+ real-world projects, 4+ apps published on Google Play Store & Apple App Store</b></span></li>
+  <li>🏢 <b>Currently:</b> Actively seeking new opportunities as a Flutter Developer</li>
+</ul>
     </td>
     <td width="40%" align="center">
       <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="280" alt="Coding GIF" />
