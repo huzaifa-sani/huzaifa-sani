@@ -1,37 +1,4 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00C7B7;">Huzaifa Sani</span>
-</h1>
-
-<h3 align="center">
-As a Professional Flutter Developer, I transform ideas into powerful, scalable mobile applications.
-  
-</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00C7B7&center=true&vCenter=true&width=1100&lines=Flutter+Developer;Crafting+Beautiful+Flutter+User+Interfaces;Firebase+Authentication+%26+Backend+Integration;REST+API+Integration;GetX+State+Management;MVC+Architecture+Enthusiast;Building+Apps+That+Solve+Real+Problems" />
-</p>
-
----
-<p align="center">
-  &nbsp;•&nbsp;
-  💻 &nbsp; <b>Flutter Developer</b>
-  &nbsp;•&nbsp;
-  📍 &nbsp; <b>Dhaka, Bangladesh 🇧🇩</b>
-</p>
-
-<p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/✉%20Gmail-D32F2F?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
+<h1 align="center"> Hi 👋, I'm <span style="color:#00C7B7;">Huzaifa Sani</span> </h1> <h3 align="center"> A Professional Flutter Developer who transforms ideas into powerful, scalable mobile applications 🚀 </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&width=750&lines=Flutter+Developer;Beautiful+Mobile+Interfaces;Firebase+Backend+Integration;REST+API+Integration;GetX+State+Management" /> </p> <p align="center"> 💻 <b>Flutter Developer</b> &nbsp;&bull;&nbsp; 📍 <b>Dhaka, Bangladesh 🇧🇩</b> &nbsp;&bull;&nbsp; 🎯 <b>Open to Opportunities</b> </p> <p align="center"> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://wa.me/YOUR_WHATSAPP_NUMBER"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /> </a> </p> <br>
 ## About Me
 
 <table align="center" width="100%">
