@@ -28,7 +28,8 @@
 </table>
 
 <br>
-About Me :
+About Me:
+
 
 <table align="center" width="100%">
   <tr>
