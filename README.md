@@ -92,11 +92,12 @@ About Me:
   <img src="https://img.shields.io/badge/Apple%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Apple App Store" />
 </p>
 
-<h2 align="center">📜 Certifications & Continuous Learning</h2>
+<h2 align="center">Certifications & Continuous Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bongo%20Academy-Android%20App%20Development-green?style=for-the-badge&logo=android&logoColor=white" alt="Bongo Academy Android" />
   <img src="https://img.shields.io/badge/Ostad-Flutter%20Developer-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Ostad Flutter" />
+  
   <img src="https://img.shields.io/badge/Phitron-CS%20Fundamentals%20(Fall%202026)-orange?style=for-the-badge&logo=python&logoColor=white" alt="Phitron CS Fundamentals" />
 </p>
 <h2 align="center">Analytics & Performance</h2>
