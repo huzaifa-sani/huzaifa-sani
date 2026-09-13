@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00C7B7;">Huzaifa Sani</span></h1>
 
-<h3 align="center">Turning ideas into mobile apps and beautiful moments into films 🚀</h3>
+<h3 align="center">Flutter Developer & Filmmaker 🚀</h3>
 
----
+<p align="center">
+I build mobile experiences with Flutter and turn ideas into visual stories.
+</p>
+
 
 <table align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117;">
   <tr>
