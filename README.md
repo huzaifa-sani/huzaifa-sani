@@ -2,10 +2,6 @@
 
 <h3 align="center">Turning ideas into mobile apps and beautiful moments into films 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&width=750&lines=Flutter+Developer;Beautiful+Mobile+Interfaces;Firebase+Backend+Integration;REST+API+Integration;GetX+State+Management" />
-</p>
-
 ---
 
 <table align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117;">
