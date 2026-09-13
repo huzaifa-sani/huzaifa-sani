@@ -3,7 +3,7 @@
 <h3 align="center">Flutter Developer & Cinematographer 🚀</h3>
 
 <p align="center">
-I build mobile experiences with Flutter and turn ideas into visual stories.
+Turning ideas into mobile apps and beautiful moments into films
 </p>
 
 
