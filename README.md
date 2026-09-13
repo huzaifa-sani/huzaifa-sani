@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00C7B7;">Huzaifa Sani</span></h1>
 
-<h3 align="center">Flutter Developer & Cinematographer 🚀</h3>
+<h3 align="center">Flutter Developer 🚀</h3>
 
 <p align="center">
 Turning ideas into mobile apps and beautiful moments into films
