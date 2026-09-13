@@ -10,7 +10,7 @@
   <tr>
     <td align="center" style="border: none; padding: 15px 25px;">
       <p align="center">  
-        📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>Open to Work</b> 
+        📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b> 2+ Years Professional Experience</b> 
       </p> 
       <p align="center" style="margin-bottom: 0;"> 
         <a href="mailto:huzaifa0133@gmail.com"> 
