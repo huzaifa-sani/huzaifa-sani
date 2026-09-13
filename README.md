@@ -58,6 +58,30 @@ About Me:
 
 ---
 
+  Achievements & Published Projects :
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <p>
+        As a Flutter Developer with 1+ years of professional experience at <b>Spark Effect</b> (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
+      </p>
+      <ul>
+        <li>🚀 <b>Sparky Toolbox:</b> Utility and toolkit app (Available on Play Store & Apple App Store).</li>
+        <li>🛍️ <b>Beauty Run:</b> E-commerce shopping application (Available on Play Store & Apple App Store).</li>
+        <li>👨‍🍳 <b>Prebry:</b> Chef hiring platform (transitioned from food sharing to professional chef hiring) (Available on Apple App Store).</li>
+        <li>💼 <b>JobSin:</b> Comprehensive job portal app for finding jobs, booking appointments, and posting jobs.</li>
+        <li>🥗 <b>Fast Food Baddy:</b> Dietary and diabetic-friendly food and meal guide app.</li>
+        <li>📝 <b>OkDay!:</b> Task creation and management app with real-time tracking and completion features.</li>
+        <li>🏫 <b>DIIC:</b> Full-featured school management system application.</li>
+        <li>💐 <b>Flower Shop App:</b> Dedicated mobile application for local flower businesses.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## Flutter Ecosystem & Tech Stack
 
 <div align="center">
