@@ -11,8 +11,7 @@ Turning ideas into mobile apps and beautiful moments into films
   <tr>
     <td align="center" style="border: none; padding: 15px 25px;">
       <p align="center">  
-        📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b> 2+ Years Professional Experience</b> 
-      </p> 
+📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>2+ Years Exp.</b> &nbsp;&bull;&nbsp; 🚀 <b>3 Published Apps</b>      </p> 
       <p align="center" style="margin-bottom: 0;"> 
         <a href="mailto:huzaifa0133@gmail.com"> 
           <img src="https://img.shields.io/badge/Gmail-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
