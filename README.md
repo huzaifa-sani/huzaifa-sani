@@ -60,7 +60,7 @@ About Me:
 
 ### 🏆 Achievements & Published Projects
 
-As a Flutter Developer with 1+ years of professional experience at **Spark Effect** (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
+As a Flutter Developer with 1+ years of professional experience at **SparkTech Agency** (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
 
 * 🚀 **Sparky Toolbox:** Utility and toolkit app (Available on **Play Store & Apple App Store**).
 * 🛍️ **Beauty Run:** E-commerce shopping application (Available on **Play Store & Apple App Store**).
