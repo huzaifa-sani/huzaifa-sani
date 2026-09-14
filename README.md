@@ -181,7 +181,7 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
 </p>
 
 
-<h2 align="center">🏆 Certifications & Continuous Learning</h2>
+<h2 align="center">Certifications & Continuous Learning</h2>
 <br>
 
 <table align="center" width="100%">
