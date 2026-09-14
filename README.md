@@ -46,7 +46,6 @@ About Me:
   <li>🎯 <b>Goal:</b> Building production-grade, scalable mobile solutions that solve real-world problems.</li>
   <li>💡 <b>Interests:</b> Mobile App Architecture, Custom Painters & Backend API Integration</li>
   <li>🚀 <b>Projects:</b> <span style="color:#00C7B7;"><b>8+ real-world projects, 4+ apps published on Google Play Store & Apple App Store</b></span></li>
-  <li>🏢 <b>Currently:</b> Actively seeking new opportunities as a Flutter Developer</li>
 </ul>
     </td>
     <td width="40%" align="center">
