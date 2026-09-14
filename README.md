@@ -6,7 +6,6 @@
 Turning ideas into mobile apps and beautiful moments into films
 </p>
 
-
 <table align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117;">
   <tr>
     <td align="center" style="border: none; padding: 15px 25px;">
