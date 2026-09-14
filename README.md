@@ -71,6 +71,45 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
 * 🏫 **DIIC:** Full-featured school management system application.
 * 💐 **Flower Shop App:** Dedicated mobile application for local flower businesses.
 
+
+<h2 align="center">🛠️ More Featured Projects</h2>
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
+      <h3>🚀 Sparky Toolbox</h3>
+      <p style="font-size: 13px; color: #8b949e;">Utility and toolkit app on Play Store & App Store.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Store-43A047?style=flat-square&logo=googleplay&logoColor=white" alt="Store" />
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
+      <h3>💼 JobSin</h3>
+      <p style="font-size: 13px; color: #8b949e;">Comprehensive job portal app for finding & posting jobs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
+      <h3>🥗 Fast Food Baddy</h3>
+      <p style="font-size: 13px; color: #8b949e;">Dietary and diabetic-friendly food & meal guide app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
+      <h3>💐 Flower Shop App</h3>
+      <p style="font-size: 13px; color: #8b949e;">Dedicated mobile application for local flower businesses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Flutter Ecosystem & Tech Stack
 
 <div align="center">
