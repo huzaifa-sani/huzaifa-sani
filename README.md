@@ -62,49 +62,88 @@ About Me:
 
 As a Flutter Developer with 1+ years of professional experience at **SparkTech Agency** (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
 
-* 🚀 **Sparky Toolbox:** Utility and toolkit app (Available on **Play Store & Apple App Store**).
-* 🛍️ **Beauty Run:** E-commerce shopping application (Available on **Play Store & Apple App Store**).
-* 👨‍🍳 **Prebry:** Chef hiring platform, transitioned from food sharing to professional chef hiring (Available on **Apple App Store**).
-* 💼 **JobSin:** Comprehensive job portal app for finding jobs, booking appointments, and posting jobs.
-* 🥗 **Fast Food Baddy:** Dietary and diabetic-friendly food and meal guide app.
-* 📝 **OkDay!:** Task creation and management app with real-time tracking and completion features.
-* 🏫 **DIIC:** Full-featured school management system application.
-* 💐 **Flower Shop App:** Dedicated mobile application for local flower businesses.
-
-
-<h2 align="center">🛠️ More Featured Projects</h2>
+<h2 align="center">Successfully Deployed & Published Projects</h2>
 <br>
 
 <table align="center" width="100%">
+  <!-- Row 1 -->
   <tr>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
-      <h3>🚀 Sparky Toolbox</h3>
-      <p style="font-size: 13px; color: #8b949e;">Utility and toolkit app on Play Store & App Store.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Store-43A047?style=flat-square&logo=googleplay&logoColor=white" alt="Store" />
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🚀 Sparky Toolbox</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Utility and toolkit app (Available on Play Store & Apple App Store).</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" />
+        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
       </p>
     </td>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
-      <h3>💼 JobSin</h3>
-      <p style="font-size: 13px; color: #8b949e;">Comprehensive job portal app for finding & posting jobs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🛍️ Beauty Run</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">E-commerce shopping application (Available on Play Store & Apple App Store).</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" />
+        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
       </p>
     </td>
   </tr>
+  
+  <!-- Row 2 -->
   <tr>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
-      <h3>🥗 Fast Food Baddy</h3>
-      <p style="font-size: 13px; color: #8b949e;">Dietary and diabetic-friendly food & meal guide app.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">💼 JobSin</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Comprehensive job portal app for finding jobs, booking appointments, and posting jobs.</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" />
+        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
       </p>
     </td>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 15px;" valign="top">
-      <h3>💐 Flower Shop App</h3>
-      <p style="font-size: 13px; color: #8b949e;">Dedicated mobile application for local flower businesses.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">👨‍🍳 Prebry</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Chef hiring platform, transitioned to professional chef hiring (Available on Apple App Store).</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" />
+        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🥗 Fast Food Baddy</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Dietary and diabetic-friendly food and meal guide app.</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">📝 OkDay!</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Task creation and management app with real-time tracking and completion features.</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+      </p>
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🏫 DIIC</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Full-featured school management system application.</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">💐 Flower Shop App</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Dedicated mobile application for local flower businesses.</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
       </p>
     </td>
   </tr>
