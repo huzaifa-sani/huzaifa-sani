@@ -180,20 +180,40 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
   <img src="https://img.shields.io/badge/Apple%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Apple App Store" />
 </p>
 
-<h2 align="center">Certifications & Continuous Learning</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bongo%20Academy-Android%20App%20Development-green?style=for-the-badge&logo=android&logoColor=white" alt="Bongo Academy Android" />
-  <img src="https://img.shields.io/badge/Ostad-Flutter%20Developer-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Ostad Flutter" />
+<h2 align="center">🏆 Certifications & Continuous Learning</h2>
+<br>
+
+<table align="center" width="100%">
+  <!-- Row 1: Bongo Academy & Ostad -->
+  <tr>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎓 Bongo Academy</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Android App Development Certification</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Android%20Dev-green?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎯 Ostad</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Flutter Developer Professional Training</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Flutter%20Dev-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      </p>
+    </td>
+  </tr>
   
-  <img src="https://img.shields.io/badge/Phitron-CS%20Fundamentals%20(Fall%202026)-orange?style=for-the-badge&logo=python&logoColor=white" alt="Phitron CS Fundamentals" />
-</p>
-<h2 align="center">Analytics & Performance</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa-sani&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
+  <!-- Row 2: Phitron -->
+  <tr>
+    <td colspan="2" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">💻 Phitron</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Computer Science Fundamentals (Fall 2026)</p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/CS%20Fundamentals-orange?style=for-the-badge&logo=python&logoColor=white" alt="CS Fundamentals" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">GitHub Overview & Productive Hours</h3>
 <p align="center"><i>A quick summary of my coding activity and commit patterns</i></p>
