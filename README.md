@@ -194,7 +194,7 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
       </p>
     </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎯 Ostad</h3>
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎓 Ostad</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Flutter Developer Professional Training</p>
       <p style="margin: 0;">
         <img src="https://img.shields.io/badge/Flutter%20Dev-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -205,7 +205,7 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
   <!-- Row 2: Phitron -->
   <tr>
     <td colspan="2" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">💻 Phitron</h3>
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎓 Phitron</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Computer Science Fundamentals (Fall 2026)</p>
       <p style="margin: 0;">
         <img src="https://img.shields.io/badge/CS%20Fundamentals-orange?style=for-the-badge&logo=python&logoColor=white" alt="CS Fundamentals" />
