@@ -63,21 +63,22 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
 <br>
 
 <table align="center" width="100%">
-<tr>
+  <!-- Row 1: Sparky Toolbox & Beauty Run -->
+  <tr>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">🚀 Sparky Toolbox</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Utility and toolkit app (Available on Play Store & Apple App Store).</p>
       <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" />
-        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
+        <a href="https://play.google.com/store/apps/details?id=com.trinfjhtechsolutions.sparkytools" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+        <a href="https://apps.apple.com/us/app/sparky-toolbox/id6782320797" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
       </p>
     </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">🛍️ Beauty Run</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">E-commerce shopping application (Available on Play Store & Apple App Store).</p>
       <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" />
-        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
+        <a href="https://play.google.com/store/apps/details?id=com.beauty.users&pli=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+        <a href="https://apps.apple.com/us/app/beautyrun-app/id6779861868" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
       </p>
     </td>
   </tr>
@@ -88,7 +89,7 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
       <h3 style="color: #00C7B7; margin-bottom: 8px;">💼 JobSin</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Comprehensive job portal app for finding jobs, booking appointments, and posting jobs.</p>
       <p style="margin: 0;">
-             <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
       </p>
     </td>
@@ -96,7 +97,7 @@ As a Flutter Developer with 1+ years of professional experience at **SparkTech A
       <h3 style="color: #00C7B7; margin-bottom: 8px;">👨‍🍳 Prebry</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Chef hiring platform, transitioned to professional chef hiring (Available on Apple App Store).</p>
       <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
+        <a href="https://apps.apple.com/us/app/privae/id6756812318" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
       </p>
     </td>
   </tr>
