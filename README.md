@@ -152,11 +152,22 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 ### **Mobile Development**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-    <img src="https://img.shields.io/badge/BLoC-00A8E8?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+</p>
+
+### **State Management**
+<p>
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/BLoC-00A8E8?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+</p>
 ### **Backend & Cloud Services**
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
