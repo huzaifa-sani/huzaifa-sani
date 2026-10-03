@@ -149,7 +149,7 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 
 <div align="center">
 
-### **Mobile Development**
+### **Mobile Apps Development**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -168,6 +168,7 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
   <img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
   <img src="https://img.shields.io/badge/BLoC-00A8E8?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
 </p>
+
 ### **Backend & Cloud Services**
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -175,7 +176,6 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
   <img src="https://img.shields.io/badge/Local%20Storage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Local Storage" />
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
 </p>
-
 
 ### **Tools & Workflow**
 <p>
@@ -190,8 +190,6 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
   <img src="https://img.shields.io/badge/App%20Store%20Publishing-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store Publishing" />
   <img src="https://img.shields.io/badge/Apple%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Apple App Store" />
 </p>
-
-
 <h2 align="center">Certifications & Continuous Learning</h2>
 <br>
 
