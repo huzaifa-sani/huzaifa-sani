@@ -238,6 +238,10 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
   </tr>
 </table>
 
+## Mission & Vision
+
+<table align="center" width="100%" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117;"> <tr> <td width="50%" align="center" style="padding: 30px 20px; border-right: 1px solid #30363d;" valign="top"> <h3 style="color: #00C7B7; margin-bottom: 12px; font-size: 20px;">🎯 Mission</h3> <p style="font-size: 14px; color: #8b949e; line-height: 1.7; margin: 0; padding: 0 10px;">To become the best Flutter Developer at my company by mastering clean code and gaining deep knowledge of Flutter.</p> </td> <td width="50%" align="center" style="padding: 30px 20px;" valign="top"> <h3 style="color: #00C7B7; margin-bottom: 12px; font-size: 20px;">🚀 Vision</h3> <p style="font-size: 14px; color: #8b949e; line-height: 1.7; margin: 0; padding: 0 10px;"> To become a world-class Software Engineer by mastering competitive programming, problem-solving, and software development.</p> </td> </tr> </table>
+
 ## Quote
 
 > "I don't just write code. I build solutions, learn continuously, and turn ideas into impactful mobile applications."
