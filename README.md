@@ -57,7 +57,7 @@ About Me:
 ---
 ### Achievements & Published Projects :
 
-As a Flutter Developer with 1+ years of professional experience at **SparkTech Agency** (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
+As a Flutter Developer with 2+ years of professional experience at **SparkTech Agency** (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
 
 <h2 align="center">Published Apps & Real-World Projects</h2>
 <br>
