@@ -64,12 +64,15 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 <table align="center" width="100%">
   <!-- Row 1: Sparky Toolbox & Prebry -->
   <tr>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+<td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">🚀 Sparky Toolbox</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Utility and toolkit app (Available on Play Store & Apple App Store).</p>
-      <p style="margin: 0;">
+      <p style="margin: 0 0 12px 0;">
         <a href="https://play.google.com/store/apps/details?id=com.trinfjhtechsolutions.sparkytools" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" /></a>
         <a href="https://apps.apple.com/us/app/sparky-toolbox/id6782320797" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
+      </p>
+      <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Type-Paid%20App-orange?style=flat-square" alt="Paid App" />
       </p>
     </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
