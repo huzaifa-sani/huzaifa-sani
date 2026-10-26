@@ -13,10 +13,10 @@ Turning ideas into mobile apps and beautiful moments into films
 📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>2+ Years Exp.</b> &nbsp;&bull;&nbsp; 💡 <b>4 Published Apps</b>      </p> 
       <p align="center" style="margin-bottom: 0;"> 
         <a href="https://wa.me/8801963999044"> 
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> 
+          <img src="https://img.shields.io/badge/WhatsApp-24292E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> 
         </a> 
         <a href="https://www.linkedin.com/in/huzaifa-sani-525b36304/"> 
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+          <img src="https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
         </a> 
         <a href="https://medium.com/@huzaifa0133/activity"> 
           <img src="https://img.shields.io/badge/Medium-24292E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> 
