@@ -3,7 +3,7 @@
   <h1>Hi 👋, I'm Huzaifa Sani</h1>
   
   <h3>Flutter Developer 🚀</h3>
-  <p style="margin-bottom: 15px;"><i>Turning ideas into mobile apps and beautiful moments into films</i></p>
+  <p style="margin-bottom: 15px;">Turning ideas into mobile apps and beautiful moments into films</i></p>
 
   <!-- Info & Contact Box -->
   <table align="center" width="75%" style="border-collapse: collapse; border: none;">
