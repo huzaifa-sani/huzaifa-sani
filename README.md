@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00C7B7;">Huzaifa Sani</span></h1>
+HTML
+<div align="center">
 
-<h3 align="center">Flutter Developer 🚀</h3>
-
-<p align="center">
-Turning ideas into mobile apps and beautiful moments into films
-</p>
-
-  <br>
+  <h1>Hi 👋, I'm Huzaifa Sani</h1>
+  
+  <h3>Flutter Developer 🚀</h3>
+  <p style="margin-bottom: 15px;"><i>Turning ideas into mobile apps and beautiful moments into films</i></p>
 
   <!-- Info & Contact Box -->
-  <table align="center" width="75%">
+  <table align="center" width="75%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="border: 2px solid #00C7B7; border-radius: 16px; background-color: #0d1117; padding: 22px;">
-        <p style="margin: 0 0 15px 0; color: #8b949e; font-size: 14px;">
+      <td align="center" style="border: 2px solid #00C7B7; border-radius: 16px; background-color: #0d1117; padding: 15px 20px;">
+        <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">
           📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎯 2+ Years Exp. &nbsp;•&nbsp; 💡 4 Published Apps
         </p>
         <p style="margin: 0; display: inline-flex; align-items: center; gap: 12px; flex-wrap: wrap; justify-content: center;">
@@ -23,10 +21,6 @@ Turning ideas into mobile apps and beautiful moments into films
       </td>
     </tr>
   </table>
-
-  <br>
-
-<br>
 <!-- Visitor Counter Badge -->
 <p align="center">
   <img
