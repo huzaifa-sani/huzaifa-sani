@@ -67,15 +67,15 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 <table align="center" width="100%">
   <!-- Row 1: Sparky Toolbox & Prebry -->
   <tr>
-<td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-  <h3 style="color: #00C7B7; margin-bottom: 8px;">🚀 Sparky Toolbox</h3>
-  <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Utility and toolkit app (Available on Play Store & Apple App Store).</p>
-  <p style="margin: 0; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: center;">
-    <a href="https://play.google.com/store/apps/details?id=com.trinfjhtechsolutions.sparkytools" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" style="display: block;" /></a>
-    <a href="https://apps.apple.com/us/app/sparky-toolbox/id6782320797" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="display: block;" /></a>
-    <img src="https://img.shields.io/badge/Paid%20App-F97316?style=for-the-badge" alt="Paid App" style="height: 28px; display: block;" />
-  </p>
-</td>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 8px;">🚀 Sparky Toolbox</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Utility and toolkit app (Available on Play Store & Apple App Store).</p>
+      <p style="margin: 0; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <a href="https://play.google.com/store/apps/details?id=com.trinfjhtechsolutions.sparkytools" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" style="display: block;" /></a>
+        <a href="https://apps.apple.com/us/app/sparky-toolbox/id6782320797" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="display: block;" /></a>
+        <img src="https://img.shields.io/badge/Paid%20App-F97316?style=for-the-badge" alt="Paid App" style="height: 28px; display: block;" />
+      </p>
+    </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">👨‍🍳 Prebry</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Chef hiring platform, transitioned to professional chef hiring (Available on Apple App Store).</p>
@@ -85,72 +85,16 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
     </td>
   </tr>
   
-  <!-- Row 2: JobSin & Beauty Run -->
+  <!-- Row 2: Beauty Run & FWAZ -->
   <tr>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">💼 JobSin</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Comprehensive job portal app for finding jobs, booking appointments, and posting jobs.</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-      </p>
-    </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">🛍️ Beauty Run</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">E-commerce shopping application (Available on Play Store & Apple App Store).</p>
-      <p style="margin: 0;">
+      <p style="margin: 0; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: center;">
         <a href="https://play.google.com/store/apps/details?id=com.beauty.users&pli=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" /></a>
         <a href="https://apps.apple.com/us/app/beautyrun-app/id6779861868" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
       </p>
     </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <!-- Row 3: Fast Food Baddy & OkDay! -->
-  <tr>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">🥗 Fast Food Baddy</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Dietary and diabetic-friendly food and meal guide app.</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-      </p>
-    </td>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">📝 OkDay!</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Task creation and management app with real-time tracking and completion features.</p>
-      <p style="margin: 0;">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Bloc-F7931E?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
-      </p>
-    </td>
-  </tr>
-  
-  <!-- Row 4: DIIC & Flower Shop App -->
-  <tr>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">🏫 DIIC</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Full-featured school management system application.</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-      </p>
-    </td>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">💐 Flower Shop App</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Dedicated mobile application for local flower businesses.</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <!-- Row 5: FWAZ (Islamic App) & Coming Soon -->
-  <tr>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">☪️ FWAZ</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Comprehensive Islamic app featuring digital Tasbih, Quran reading, and daily supplications.</p>
@@ -159,16 +103,8 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
         <img src="https://img.shields.io/badge/Bloc-F7931E?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
       </p>
     </td>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px; opacity: 0.3;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">✨ Coming Soon</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">More exciting mobile applications on the way.</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      </p>
-    </td>
   </tr>
 </table>
-
 ## Flutter Ecosystem & Tech Stack
 
 <div align="center">
