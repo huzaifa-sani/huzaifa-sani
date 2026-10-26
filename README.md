@@ -6,11 +6,14 @@
 Turning ideas into mobile apps and beautiful moments into films
 </p>
 
-<table align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117;">
+<table align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; color: #ffffff;">
   <tr>
-    <td align="center" style="border: none; padding: 15px 25px;">
-      <p align="center">  
-📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>2+ Years Exp.</b> &nbsp;&bull;&nbsp; 💡 <b>4 Published Apps</b>      </p> 
+    <td align="center" style="border: none; padding: 20px 30px;">
+      <!-- টেক্সট সেকশন -->
+      <p align="center" style="margin-top: 0; margin-bottom: 15px; font-size: 15px; line-height: 1.6;">
+        📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>2+ Years Exp.</b> &nbsp;&bull;&nbsp; 💡 <b>4 Published Apps</b>
+      </p> 
+      <!-- বাটন/ব্যাজ সেকশন -->
       <p align="center" style="margin-bottom: 0;"> 
         <a href="https://wa.me/8801963999044"> 
           <img src="https://img.shields.io/badge/WhatsApp-24292E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> 
