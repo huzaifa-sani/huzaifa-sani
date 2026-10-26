@@ -5,7 +5,7 @@
   <h3>Flutter Developer 🚀</h3>
   <p style="margin-bottom: 15px;">Turning ideas into mobile apps and beautiful moments into films</i></p>
 
-  <!-- Info & Contact Box -->
+<!-- Info & Contact Box -->
   <table align="center" width="75%" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: 2px solid #00C7B7; border-radius: 16px; background-color: #0d1117; padding: 15px 20px;">
