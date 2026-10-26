@@ -47,8 +47,6 @@
   <li>🏫 <b>University:</b> Canadian University of Bangladesh (CUB), Dhaka</li>
   <li>📚 <b>Previous Education:</b> Diploma in Computer Science & Technology</li>
   <li>🏫 <b>Institute:</b> Narsingdi Government Polytechnic Institute, Bangladesh</li>
-  <li>🎯 <b>Goal:</b> Building production-grade, scalable mobile solutions that solve real-world problems.</li>
-  <li>💡 <b>Interests:</b> Mobile App Architecture, Custom Painters & Backend API Integration</li>
   <li>🚀 <b>Projects:</b> <span style="color:#00C7B7;"><b>8+ real-world projects, 4+ apps published on Google Play Store & Apple App Store</b></span></li>
 </ul>
     </td>
