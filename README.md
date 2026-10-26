@@ -181,27 +181,27 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 </div>
 
 
-<h2 align="center">Certifications & Continuous Learning</h2>
+<h2 align="center" style="border-bottom: none;">Certifications & Continuous Learning</h2>
 <br>
 
 <table align="center" width="100%">
   <!-- Row 1: Bongo Academy & Ostad -->
   <tr>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 24px;" valign="top">
-      <a href="https://www.bongoacademy.com/" target="_blank" style="text-decoration: none; color: inherit;">
-        <h3 style="color: #00C7B7; margin-bottom: 6px; text-decoration: none;">🎓 Bongo Academy</h3>
+      <a href="https://bongoacademy.com/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block;">
+        <h3 style="color: #00C7B7; margin-bottom: 6px; border-bottom: none;">🎓 Bongo Academy</h3>
       </a>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 16px;">Android App Development Certification</p>
-      <a href="https://www.bongoacademy.com/" target="_blank" style="text-decoration: none; border: none; outline: none;">
+      <a href="https://bongoacademy.com/" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="46" height="46" style="border: none;" />
       </a>
     </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 24px;" valign="top">
-      <a href="https://ostad.app/" target="_blank" style="text-decoration: none; color: inherit;">
-        <h3 style="color: #00C7B7; margin-bottom: 6px; text-decoration: none;">🎓 Ostad</h3>
+      <a href="https://ostad.app/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block;">
+        <h3 style="color: #00C7B7; margin-bottom: 6px; border-bottom: none;">🎓 Ostad</h3>
       </a>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 16px;">Flutter Developer Professional Training</p>
-      <a href="https://ostad.app/" target="_blank" style="text-decoration: none; border: none; outline: none;">
+      <a href="https://ostad.app/" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="46" height="46" style="border: none;" />
       </a>
     </td>
@@ -210,17 +210,18 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
   <!-- Row 2: Phitron -->
   <tr>
     <td colspan="2" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 24px;" valign="top">
-      <a href="https://phitron.io/" target="_blank" style="text-decoration: none; color: inherit;">
-        <h3 style="color: #00C7B7; margin-bottom: 6px; text-decoration: none;">🎓 Phitron</h3>
+      <a href="https://phitron.io/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block;">
+        <h3 style="color: #00C7B7; margin-bottom: 6px; border-bottom: none;">🎓 Phitron</h3>
       </a>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 16px;">Computer Science Fundamentals (Fall 2026)</p>
-      <a href="https://phitron.io/" target="_blank" style="text-decoration: none; border: none; outline: none;">
+      <a href="https://phitron.io/" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C/C++" width="44" height="44" style="margin-right: 12px; border: none;" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="44" height="44" style="border: none;" />
       </a>
     </td>
   </tr>
 </table>
+
 ## Mission & Vision
 
 <table align="center" width="100%" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117;"> <tr> <td width="50%" align="center" style="padding: 30px 20px; border-right: 1px solid #30363d;" valign="top"> <h3 style="color: #00C7B7; margin-bottom: 12px; font-size: 20px;">🎯 Mission</h3> <p style="font-size: 14px; color: #8b949e; line-height: 1.7; margin: 0; padding: 0 10px;">To become the best Flutter Developer at my company by mastering clean code and gaining deep knowledge of Flutter.</p> </td> <td width="50%" align="center" style="padding: 30px 20px;" valign="top"> <h3 style="color: #00C7B7; margin-bottom: 12px; font-size: 20px;">🚀 Vision</h3> <p style="font-size: 14px; color: #8b949e; line-height: 1.7; margin: 0; padding: 0 10px;"> To become a world-class Software Engineer by mastering competitive programming, problem-solving, and software development.</p> </td> </tr> </table>
