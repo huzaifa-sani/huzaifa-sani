@@ -30,6 +30,13 @@ Turning ideas into mobile apps and beautiful moments into films
 </table>
 
 <br>
+<!-- Visitor Counter Badge -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=huzaifa-sani&style=for-the-badge&color=00C7B7&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
 
 About Me:
 
