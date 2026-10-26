@@ -33,7 +33,7 @@
 
 </div>
 
-## About Me:
+### About Me:
 
 <table align="center" width="100%">
   <tr>
@@ -61,8 +61,8 @@
 
 As a Flutter Developer with 2+ years of professional experience at **SparkTech Agency** (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
 
+### Published Apps & Real-World Projects :
 
-<h2 align="center">Published Apps & Real-World Projects</h2>
 <br>
 <table align="center" width="100%">
   <!-- Row 1: Sparky Toolbox & Prebry -->
@@ -106,7 +106,7 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
   </tr>
 </table>
 
-## Flutter Ecosystem & Tech Stack
+<h2 align="center" style="border-bottom: none;">Flutter Ecosystem & Tech Stack</h2>
 
 <div align="center">
 
