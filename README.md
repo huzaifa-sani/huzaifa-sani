@@ -182,39 +182,31 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 
 
 <h2 align="center">Certifications & Continuous Learning</h2>
-<br>
-
 <table align="center" width="100%">
   <!-- Row 1: Bongo Academy & Ostad -->
   <tr>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎓 Bongo Academy</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Android App Development Certification</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Android%20Dev-green?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-      </p>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 24px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 6px;">🎓 Bongo Academy</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 16px;">Android App Development Certification</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="46" height="46" />
     </td>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎓 Ostad</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Flutter Developer Professional Training</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Flutter%20Dev-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      </p>
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 24px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 6px;">🎓 Ostad</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 16px;">Flutter Developer Professional Training</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="46" height="46" />
     </td>
   </tr>
   
   <!-- Row 2: Phitron -->
   <tr>
-    <td colspan="2" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
-      <h3 style="color: #00C7B7; margin-bottom: 8px;">🎓 Phitron</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Computer Science Fundamentals (Fall 2026)</p>
-      <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/CS%20Fundamentals-orange?style=for-the-badge&logo=python&logoColor=white" alt="CS Fundamentals" />
-      </p>
+    <td colspan="2" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 24px;" valign="top">
+      <h3 style="color: #00C7B7; margin-bottom: 6px;">🎓 Phitron</h3>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 16px;">Computer Science Fundamentals (Fall 2026)</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C/C++" width="44" height="44" style="margin-right: 12px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="44" height="44" />
     </td>
   </tr>
 </table>
-
 <h3 align="center">GitHub Overview & Productive Hours</h3>
 <p align="center"><i>A quick summary of my coding activity and commit patterns</i></p>
 
