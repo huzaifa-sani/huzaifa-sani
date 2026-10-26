@@ -112,47 +112,75 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 
 <div align="center">
 
+<div align="center">
+
 ### **Mobile Apps Development**
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" style="border-radius: 12px;" />
 </p>
 
 ### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/XML-005C84?style=flat&logo=xml&logoColor=white" alt="XML" style="border-radius: 12px;" />
 </p>
 
 ### **State Management**
 <p>
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
-  <img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
-  <img src="https://img.shields.io/badge/BLoC-00A8E8?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat&logo=flutter&logoColor=white" alt="GetX" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Provider-42A5F5?style=flat&logo=flutter&logoColor=white" alt="Provider" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BLoC-00A8E8?style=flat&logo=flutter&logoColor=white" alt="BLoC" style="border-radius: 12px;" />
 </p>
 
 ### **Backend & Cloud Services**
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST%20API-0055E6?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Local%20Storage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Local Storage" />
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-0055E6?style=flat&logo=json&logoColor=white" alt="REST API" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Local%20Storage-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Local Storage" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Google Maps" style="border-radius: 12px;" />
 </p>
 
 ### **Tools & Workflow**
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,figma,firebase,git,github" alt="Tools" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logoColor=white" alt="Antigravity" style="border-radius: 12px;" />
 </p>
 
 ### **Publishing**
 <p>
-  <img src="https://img.shields.io/badge/App%20Store%20Publishing-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store Publishing" />
-  <img src="https://img.shields.io/badge/Apple%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Apple App Store" />
+  <img src="https://img.shields.io/badge/App%20Store%20Publishing-0D96F6?style=flat&logo=appstore&logoColor=white" alt="App Store Publishing" style="border-radius: 12px;" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apple%20App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white" alt="Apple App Store" style="border-radius: 12px;" />
 </p>
+
+</div>
+
+
 <h2 align="center">Certifications & Continuous Learning</h2>
 <br>
 
