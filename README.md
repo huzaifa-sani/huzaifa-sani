@@ -62,6 +62,7 @@ About Me:
 
 As a Flutter Developer with 2+ years of professional experience at **SparkTech Agency** (attached via BD Calling Academy), I have worked on multiple live and production-ready applications. Here are my key achievements and projects:
 
+
 <h2 align="center">Published Apps & Real-World Projects</h2>
 <br>
 <table align="center" width="100%">
@@ -73,7 +74,6 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
       <p style="margin: 0; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: center;">
         <a href="https://play.google.com/store/apps/details?id=com.trinfjhtechsolutions.sparkytools" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" style="display: block;" /></a>
         <a href="https://apps.apple.com/us/app/sparky-toolbox/id6782320797" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="display: block;" /></a>
-        <img src="https://img.shields.io/badge/Paid%20App-F97316?style=for-the-badge" alt="Paid App" style="height: 28px; display: block;" />
       </p>
     </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
@@ -95,16 +95,18 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
         <a href="https://apps.apple.com/us/app/beautyrun-app/id6779861868" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
       </p>
     </td>
-    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+<td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">☪️ FWAZ</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Comprehensive Islamic app featuring digital Tasbih, Quran reading, and daily supplications.</p>
       <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Bloc-F7931E?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
+        <a href="https://apps.apple.com/app/id6809103145" target="_blank">
+          <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="border-radius: 6px;" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
 ## Flutter Ecosystem & Tech Stack
 
 <div align="center">
