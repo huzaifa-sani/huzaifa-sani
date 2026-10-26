@@ -6,22 +6,22 @@
   <p style="margin-bottom: 15px;">Turning ideas into mobile apps and beautiful moments into films</i></p>
 
 <!-- Info & Contact Box -->
-  <table align="center" width="75%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: 2px solid #00C7B7; border-radius: 16px; background-color: #0d1117; padding: 15px 20px;">
-        <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">
-          📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎯 2+ Years Exp. &nbsp;•&nbsp; 💡 4 Published Apps
-        </p>
-        <p style="margin: 0;">
-          <a href="https://wa.me/+8801XXXXXXXXX" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-24292E?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" style="border-radius: 6px;" /></a>
-          &nbsp;&nbsp;
-          <a href="https://linkedin.com/in/huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" style="border-radius: 6px;" /></a>
-          &nbsp;&nbsp;
-          <a href="https://medium.com/@huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Medium-24292E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 6px;" /></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+<table align="center" width="75%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: 2px solid #00C7B7; border-radius: 16px; background-color: #0d1117; padding: 15px 20px;">
+      <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 14px;">
+        📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎯 2+ Years Exp. &nbsp;•&nbsp; 💡 4 Published Apps
+      </p>
+      <p style="margin: 0;">
+        <a href="https://codeforces.com/profile/huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Codeforces-24292E?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" style="border-radius: 6px;" /></a>
+        &nbsp;&nbsp;
+        <a href="https://linkedin.com/in/huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" style="border-radius: 6px;" /></a>
+        &nbsp;&nbsp;
+        <a href="https://medium.com/@huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Medium-24292E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 6px;" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Visitor Counter Badge -->
 <p align="center">
