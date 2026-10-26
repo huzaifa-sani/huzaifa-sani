@@ -6,28 +6,25 @@
 Turning ideas into mobile apps and beautiful moments into films
 </p>
 
-<table align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; color: #ffffff;">
-  <tr>
-    <td align="center" style="border: none; padding: 20px 30px;">
-      <!-- টেক্সট সেকশন -->
-      <p align="center" style="margin-top: 0; margin-bottom: 15px; font-size: 15px; line-height: 1.6;">
-        📍 <b>Dhaka, Bangladesh</b> &nbsp;&bull;&nbsp; 🎯 <b>2+ Years Exp.</b> &nbsp;&bull;&nbsp; 💡 <b>4 Published Apps</b>
-      </p> 
-      <!-- বাটন/ব্যাজ সেকশন -->
-      <p align="center" style="margin-bottom: 0;"> 
-        <a href="https://wa.me/8801963999044"> 
-          <img src="https://img.shields.io/badge/WhatsApp-24292E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> 
-        </a> 
-        <a href="https://www.linkedin.com/in/huzaifa-sani-525b36304/"> 
-          <img src="https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
-        </a> 
-        <a href="https://medium.com/@huzaifa0133/activity"> 
-          <img src="https://img.shields.io/badge/Medium-24292E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> 
-        </a> 
-      </p>
-    </td>
-  </tr>
-</table>
+  <br>
+
+  <!-- Info & Contact Box -->
+  <table align="center" width="75%">
+    <tr>
+      <td align="center" style="border: 2px solid #00C7B7; border-radius: 16px; background-color: #0d1117; padding: 22px;">
+        <p style="margin: 0 0 15px 0; color: #8b949e; font-size: 14px;">
+          📍 Dhaka, Bangladesh &nbsp;•&nbsp; 🎯 2+ Years Exp. &nbsp;•&nbsp; 💡 4 Published Apps
+        </p>
+        <p style="margin: 0; display: inline-flex; align-items: center; gap: 12px; flex-wrap: wrap; justify-content: center;">
+          <a href="https://wa.me/+8801XXXXXXXXX" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-24292E?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" style="border-radius: 6px;" /></a>
+          <a href="https://linkedin.com/in/huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" style="border-radius: 6px;" /></a>
+          <a href="https://medium.com/@huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Medium-24292E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 6px;" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br>
 
 <br>
 <!-- Visitor Counter Badge -->
