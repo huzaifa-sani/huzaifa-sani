@@ -19,6 +19,8 @@
         <a href="https://linkedin.com/in/huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" style="border-radius: 6px;" /></a>
         &nbsp;&nbsp;
         <a href="https://medium.com/@huzaifa-sani" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Medium-24292E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 6px;" /></a>
+        &nbsp;&nbsp;
+        <a href="https://huzaifa-sani.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=00C7B7" alt="Portfolio" style="border-radius: 6px;" /></a>
       </p>
     </td>
   </tr>
