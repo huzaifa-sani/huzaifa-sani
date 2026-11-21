@@ -79,9 +79,10 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
     </td>
     <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">👨‍🍳 Prebry</h3>
-      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Chef hiring platform, transitioned to professional chef hiring (Available on Apple App Store).</p>
-      <p style="margin: 0;">
-        <a href="https://apps.apple.com/us/app/privae/id6756812318" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
+      <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Chef hiring platform, transitioned to professional chef hiring (Available on Play Store & Apple App Store).</p>
+      <p style="margin: 0; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <a href="https://play.google.com/store/apps/details?id=com.privae.users.ios" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" style="display: block;" /></a>
+        <a href="https://apps.apple.com/us/app/privae/id6756812318" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="display: block;" /></a>
       </p>
     </td>
   </tr>
@@ -92,15 +93,15 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
       <h3 style="color: #00C7B7; margin-bottom: 8px;">🛍️ Beauty Run</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">E-commerce shopping application (Available on Play Store & Apple App Store).</p>
       <p style="margin: 0; display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: center;">
-        <a href="https://play.google.com/store/apps/details?id=com.beauty.users&pli=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" /></a>
-        <a href="https://apps.apple.com/us/app/beautyrun-app/id6779861868" target="_blank"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.beauty.users&pli=1" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Play-43A047?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store" style="display: block;" /></a>
+        <a href="https://apps.apple.com/us/app/beautyrun-app/id6779861868" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="display: block;" /></a>
       </p>
     </td>
-<td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
+    <td width="50%" align="center" style="border: 2px solid #00C7B7; border-radius: 12px; background-color: #0d1117; padding: 20px;" valign="top">
       <h3 style="color: #00C7B7; margin-bottom: 8px;">☪️ FWAZ</h3>
       <p style="font-size: 13px; color: #8b949e; margin-bottom: 15px;">Comprehensive Islamic app featuring digital Tasbih, Quran reading, and daily supplications.</p>
       <p style="margin: 0;">
-        <a href="https://apps.apple.com/app/id6809103145" target="_blank">
+        <a href="https://apps.apple.com/app/id6809103145" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" style="border-radius: 6px;" />
         </a>
       </p>
@@ -109,8 +110,6 @@ As a Flutter Developer with 2+ years of professional experience at **SparkTech A
 </table>
 
 <h2 align="center" style="border-bottom: none;">Flutter Ecosystem & Tech Stack</h2>
-
-<div align="center">
 
 <div align="center">
 
